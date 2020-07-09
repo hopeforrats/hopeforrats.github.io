@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1594303200,
+	"version": 1589649736,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -189,6 +189,7 @@
 		"images/player_mask3-sheet1.png",
 		"images/spriteletter13-sheet0.png",
 		"images/sprite6-sheet0.png",
+		"images/spriteletter14-sheet0.png",
 		"media/coin_spawn_sfx.m4a",
 		"media/coin_spawn_sfx.ogg",
 		"media/coin_collect.m4a",
