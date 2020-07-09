@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1589649736,
+	"version": 1594307064,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -76,6 +76,7 @@
 		"images/tilemap_spike_collisions.png",
 		"images/stage_clear-sheet0.png",
 		"images/bg_stage_clear.png",
+		"images/start_btn-sheet0.png",
 		"images/switch-sheet0.png",
 		"images/enemy_3-sheet0.png",
 		"images/enemy_bullet-sheet0.png",
@@ -137,7 +138,6 @@
 		"images/demo-sheet0.png",
 		"images/tap_to_menu-sheet0.png",
 		"images/checkpoint_temporary-sheet0.png",
-		"images/checkpoint_temporary-sheet1.png",
 		"images/rotatescreen-sheet0.png",
 		"images/enemy_8-sheet0.png",
 		"images/enemy_9-sheet0.png",
@@ -182,7 +182,6 @@
 		"images/spriteletter8-sheet0.png",
 		"images/spriteletter9-sheet0.png",
 		"images/spriteletter10-sheet0.png",
-		"images/spriteletter11-sheet0.png",
 		"images/spriteletter12-sheet0.png",
 		"images/spriteletter5-sheet0.png",
 		"images/player_mask3-sheet0.png",
